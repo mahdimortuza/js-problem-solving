@@ -75,9 +75,6 @@ function findingBadData(array){
 
 arr = [-4, -9, -5, -33, -55]
 
-
-
-
 /* Fifth Problem:- gemsToDiamond.
  This is problem number_5. This function converts gems into diamond.
 // It does a complex task which i do not want to describe right now. because, 
