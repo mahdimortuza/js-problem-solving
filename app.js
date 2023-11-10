@@ -16,8 +16,6 @@ function mindGame(number){
 }
 
 
-
-
 /* Second Problem:- evenOdd.
 This is problem number_2. This function works with string. It takes 
 a string parameter and show "Even" or "Odd" based on even and odd numbers. */
@@ -38,8 +36,6 @@ function evenOdd(string){
 let stringValue = "chatgpt"
 
 
-
-
 /* Third Problem:- isLGSeven.
  This is problem number_3. It takes a number as a parameter then differenciate the number from 7.
 // Then it returns the result. If the returened number id less than 7, then it showns the subtructed result 
@@ -54,7 +50,6 @@ function isLGSeven(number){
     }
 
 }
-
 
 
 /* Fourth Problem:- findingBadData.
